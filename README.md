@@ -6,5 +6,5 @@ A Modding Terminal used for modding and helpful resources
 2. Extract the folder
 3. Open "Cosmics Mod Terminal.exe"
 
-#More Info
+# More-Info
 This will be updated a lot so make sure to stay up to date!
